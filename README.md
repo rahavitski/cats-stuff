@@ -16,3 +16,4 @@
 var unixTime=Date.now(); var url='https://raw.githubusercontent.com/rahavitski/cats-stuff/main/Catizen-script-v1.1.js?token=GHSAT0AAAAAACQ2I2QLSVBWQ7COEMC4HVFMZQ643GA'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
 ```
 #### 9. Wait a couple of seconds, go to the game, switch on Autobot and farm $CATS!
+#### 10. Now every time you start the game, you need to repeat steps 5 to 9 to activate Autobot.
